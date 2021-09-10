@@ -1,0 +1,17 @@
+.jumbotron {
+  padding-top: 8rem;
+  background: rgb(212, 210, 210);
+  background: linear-gradient(0deg, rgba(212, 210, 210, 1) 70%, rgba(57, 53, 53, 1) 98%, rgba(0, 0, 0, 1) 100%);
+}
+.edu {
+  background-color: white;
+}
+.footbar {
+  background-color: black;
+}
+.nav-link {
+  margin-right: 50px;
+}
+.svg_about {
+  background: d4d2d2;
+}
